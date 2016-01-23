@@ -1,0 +1,17 @@
+{
+    "name": "ktsoftware/crud",
+    "description": "Simple CRUD",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kameliya Tincheva",
+            "email": "ktincheva@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "psr-4": {
+        "App\\": "app/",
+        "KTSoftware\\CRUD\\": "packages/ktsoftware/crud/src"
+    }
+}
